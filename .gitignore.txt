@@ -1,0 +1,12 @@
+# Arquivos de ambiente
+.env
+
+# Credenciais e configurações locais
+*.json
+*.cfg
+
+# Pastas de ambiente virtual do Python
+venv/
+/venv/
+__pycache__/
+.ipynb_checkpoints/
